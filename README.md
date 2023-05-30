@@ -4,7 +4,7 @@
 #
 
 ### Control Flow Graph
-Све е обележано во кодот test/java/SLLab2
+### Све е обележано во кодот test/java/SLLab2
 ![alt text](https://github.com/tanesoff/SI_2023_lab2_193161/blob/master/Lab2_SI_193161_CFG.png?raw=true)
 
 
@@ -20,13 +20,10 @@
 5. EmailWithNoAT() -> Само кажува
 6. PassWithSpace() -> Само кажува
 
-....
 
 ### Тест случаи според критериумот Every path
 1. muilipleConditionTXX() -> Јузерот е нул, и поминува првиот предикат
 2. muilipleConditionFTX() -> Пасворд е нул а името не е
 3. muilipleConditionFFT() -> Емаил е нул а пасворд и името не се
-4. muilipleConditionFFF() -> Све е пополнато како сто треба да работи
-.... 
+4. muilipleConditionFFF() -> Све е пополнато како сто треба
 
-...
